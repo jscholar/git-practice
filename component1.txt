@@ -1,6 +1,6 @@
 
 // code
-// Trash code that sucks and should probably be deleted, but could be fixed
+// Improved trash code, but it's still trash. Need help
 // code
-// bug1
+// code (fixed bug 1)
 // code
