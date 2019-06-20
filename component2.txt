@@ -1,4 +1,0 @@
-
-// jscholar's completed code
-
-// this is a feature i'm adding from branch feature-c
